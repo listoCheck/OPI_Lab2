@@ -27,12 +27,4 @@ public class B implements C, E {
     public void aa() {
         System.out.println("void aa");
     }
-
-    public byte oo() {
-        return 4;
-    }
-
-    public Object gg() {
-        return new java.util.Random();
-    }
 }
