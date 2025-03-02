@@ -27,4 +27,8 @@ public class B implements C, E {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public byte oo() {
+        return 4;
+    }
 }
