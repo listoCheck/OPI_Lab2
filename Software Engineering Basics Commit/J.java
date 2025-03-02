@@ -31,4 +31,8 @@ public class J implements C, E {
     public long dd() {
         return 100500;
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }
