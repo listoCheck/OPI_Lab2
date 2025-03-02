@@ -35,4 +35,8 @@ public class B implements C, E {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }
