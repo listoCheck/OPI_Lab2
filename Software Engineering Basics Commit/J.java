@@ -55,4 +55,8 @@ public class J extends null implements C, E {
     public Object rr() {
         return null;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
 }

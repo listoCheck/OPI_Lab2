@@ -55,4 +55,8 @@ public class B extends null implements C, E {
     public Object pp() {
         return this;
     }
+
+    public int af() {
+        return -1;
+    }
 }
