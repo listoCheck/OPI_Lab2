@@ -1,4 +1,4 @@
-public class J implements C, E {
+public class J extends null implements C, E {
 
     private double c = 100.500;
 
@@ -30,5 +30,17 @@ public class J implements C, E {
 
     public long dd() {
         return 100500;
+    }
+
+    public double ad() {
+        return 9.11;
+    }
+
+    public double ee() {
+        return 500.100;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
     }
 }

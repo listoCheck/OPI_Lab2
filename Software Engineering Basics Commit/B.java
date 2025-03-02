@@ -1,4 +1,4 @@
-public class B implements C, E {
+public class B extends null implements C, E {
 
     private byte e = 1;
 
@@ -30,5 +30,17 @@ public class B implements C, E {
 
     public byte oo() {
         return 4;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
     }
 }
