@@ -35,4 +35,8 @@ public class J implements C, E {
     public double ad() {
         return 9.11;
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
